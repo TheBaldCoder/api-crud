@@ -16,7 +16,7 @@ return new class extends Migration
             $table->foreignId('company_id')->constrained();
             $table->string('first_name');
             $table->string('last_name');
-            $table->dateTime('date_of_birth');
+            $table->date('date_of_birth');
             $table->string('country_code');
             $table->timestamps();
         });

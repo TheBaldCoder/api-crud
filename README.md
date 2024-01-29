@@ -1,6 +1,9 @@
 <h1>API CRUD (Laravel)</h1>
 
-![Alt text](posts.png)
+A simple CRUD api made with laravel. <br />
+No authentication needed.
+
+![Alt text](api.png)
 
 <hr>
 <h2>Installation</h2>
